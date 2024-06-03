@@ -1,0 +1,25 @@
+body{
+text-align: center;
+font-size: 1.5rem;
+
+}
+
+div{
+    text-align: center;
+    
+    margin: auto;
+    margin-top: 4rem;
+    height: 100px;
+    width: 500px;
+    border: 1px solid;
+}
+#result{
+    margin-bottom: 4rem;
+}
+button{
+    font-size: 1rem;
+    text-align: center;
+    padding: 1.5rem;
+   margin-left: 20rem;
+
+}
