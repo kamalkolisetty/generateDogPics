@@ -2,9 +2,7 @@
 
 ![](1.png)
 
-Certainly! Here's a README file for your project:
 
-```markdown
 # Random Dog Picture Fetcher
 
 This project fetches a random dog picture from the [Dog CEO's Dog API](https://dog.ceo/dog-api/) and displays it on a web page when a button is clicked.
